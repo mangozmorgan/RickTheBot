@@ -25,7 +25,7 @@
    - Une astuce CSS
    - Une astuce Javascript
    
-   ## Mais pas que !
+   ### Mais pas que !
    
    Tu va pourvoir lui demander toi même :
     
