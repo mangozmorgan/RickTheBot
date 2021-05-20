@@ -1,4 +1,4 @@
-# RickTheBot 👴🥼
+# RickTheBot 
  Bot Discord pour developpeur junior
  
  Hey hey hey ! Et voici Rick ! 
@@ -10,10 +10,13 @@
  j'ai eu l'idée de créer un petit bot pour nous aider quotidiennement dans ce " doux " 😝 apprentissage 
  qui est le developpement web 💻 / web mobile 📱 .
  
- ### Mais en fait , ça sert a quoi ? 
- 
+ ### Avec quoi a-t-il été créé ? 
  -
  -
  -
  
- #### Avec quoi a-t-il été créé ? 
+ #### Et qu'est ce qu'il fait ?  
+ #### 1 fois par jour 
+ - 
+ -
+ -
