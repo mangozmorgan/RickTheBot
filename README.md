@@ -20,5 +20,7 @@
    - Un raccourci clavier 
    - Une astuce CSS
    - Une astuce Javascript
- -
- -
+   
+ - Mais pas que !
+   - Tu va pourvoir lui demander toi même des infos CSS / JAVASCRIPT / HTML
+ 
