@@ -10,4 +10,4 @@
  j'ai eu l'idée de créer un petit bot pour nous aider quotidiennement dans ce " doux " 😝 apprentissage 
  qui est le developpement web 💻 / web mobile 📱 .
  
- ##Mais en fait , ça sert a quoi ? 
+ ### Mais en fait , ça sert a quoi ? 
