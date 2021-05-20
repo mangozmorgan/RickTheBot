@@ -1,4 +1,4 @@
-# RickTheBot
+# RickTheBot 👴🥼
  Bot Discord pour developpeur junior
  
  Hey hey hey ! Et voici Rick ! 
