@@ -18,17 +18,19 @@
  
  ### Et qu'est ce qu'il fait ?
  
-    Une fois par jours il va envoyer automatiquement sur le groupe général :
-      - Un raccourci clavier 
-      - Une astuce CSS
-      - Une astuce Javascript
+   Une fois par jours il va envoyer automatiquement sur le groupe général :
+   
+   - Un raccourci clavier 
+   - Une astuce CSS
+   - Une astuce Javascript
    
    Mais pas que !
    --------------
-    Tu va pourvoir lui demander toi même :
-       - Des infos CSS / JAVASCRIPT / HTML
-       - Des "meme" en rapport avec le monde du Dev
-       - Des news récentes concerant les dernières technos et le web en général
+   Tu va pourvoir lui demander toi même :
+    
+   - Des infos CSS / JAVASCRIPT / HTML
+   - Des "meme" en rapport avec le monde du Dev
+   - Des news récentes concerant les dernières technos et le web en général
        
  ### Comment ça marche ? 
    
