@@ -11,20 +11,31 @@
  qui est le developpement web 💻 / web mobile 📱 .
  
  ### Avec quoi a-t-il été créé ? 
+ 
  - De l'amour 
  - De la motivation 
  - Et surtout pas mal de Javascript 😁
  
- #### Et qu'est ce qu'il fait ?
- - Une fois par jours il va envoyer automatiquement sur le groupe général :
-   - Un raccourci clavier 
-   - Une astuce CSS
-   - Une astuce Javascript
-   
- - Mais pas que !
-   - Tu va pourvoir lui demander toi même :
-      - Des infos CSS / JAVASCRIPT / HTML
-      - Des "meme" en rapport avec le monde du Dev
-      - Des news récentes concerant les dernières technos et le web en général
-   
+ ### Et qu'est ce qu'il fait ?
  
+   Une fois par jours il va envoyer automatiquement sur le groupe général :
+    - Un raccourci clavier 
+    - Une astuce CSS
+    - Une astuce Javascript
+   
+   Mais pas que !
+     Tu va pourvoir lui demander toi même :
+       - Des infos CSS / JAVASCRIPT / HTML
+       - Des "meme" en rapport avec le monde du Dev
+       - Des news récentes concerant les dernières technos et le web en général
+       
+ ### Comment ça marche ? 
+   
+   Pour faire simple voici les commandes de base :
+      -
+      -
+      -
+      
+ ### Le petit mot de la fin      
+
+
