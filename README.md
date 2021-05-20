@@ -15,8 +15,10 @@
  -
  -
  
- #### Et qu'est ce qu'il fait ?  
- #### 1 fois par jour 
- - 
+ #### Et qu'est ce qu'il fait ?
+ - Une fois par jours il va envoyer automatiquement sur le groupe général :
+   - Un raccourci clavier 
+   - Une astuce CSS
+   - Une astuce Javascript
  -
  -
