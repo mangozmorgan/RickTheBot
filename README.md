@@ -39,7 +39,7 @@
    dans vos conversation ) 
    
    Pour faire simple voici les commandes de base :  
-     -salut toi 
+      - salut toi 
    
       - !start => Activer Rick dans le salon Discord
       - !command => Demander les commandes de Rick
