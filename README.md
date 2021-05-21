@@ -33,7 +33,7 @@
    - Des "meme" en rapport avec le monde du Dev
    - Des news récentes concerant les dernières technos et le web en général
        
- ## Comment ça marche ? 
+ ## Comment ça marche ? ⚙️
  
   ( Toutes les commandes commençeront par " ! " pour éviter que Rick intervienne 
    dans vos conversation ) 
@@ -53,14 +53,15 @@
    - !pickle => Le meilleur ! 🥒
       
       
- ## Le petit mot de la fin 
+ ## Le petit mot de la fin 🔚
+ 
  ⚠️ Tu **dois** t'inscrire sur Discord Developpeur pour récuperer ta
      **clé API** et remplacer la valeur dans **main.js**
      
-   RickTheBot est un projet open-source , tu peut t'amuser comme tu veux ,
+ 📂 RickTheBot est un projet open-source , tu peut t'amuser comme tu veux ,
    ajouter des commandes , le faire evoluer , **ABSOLUMENT TOUT**.
    
-   N'hésite pas a faire un petit retour si le bot a été utile pour
+ 🍺 N'hésite pas a faire un petit retour si le bot a été utile pour
    toi où si tu as rajouté des fonctionnalités interessante ! 
  
   
