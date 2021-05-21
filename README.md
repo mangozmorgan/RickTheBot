@@ -54,6 +54,10 @@
       
       
  ## Le petit mot de la fin 
+ ⚠️ Tu **dois** t'inscrire sur Discord Developpeur pour récuperer ta clé API et remplacer la valeur dans 
+ RickTheBot est un projet open-source , tu peut t'amuser comme tu veux , ajouter des commandes , le faire evoluer , **ABSOLUMENT TOUT**.
+ N'hésite pas a faire un petit retour si le bot a été utile pour toi !
+ 
   
 
 
