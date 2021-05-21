@@ -1,17 +1,17 @@
-# RickTheBot 
+# RickTheBot 👨‍⚕️
  Bot Discord pour developpeur junior
  
  Hey hey hey ! Et voici Rick ! 
  Toute ressemblances avec une personnages existants est fortuite 😝  
  
- L'histoire
+ L'histoire 📖
  ----------
  
  Jeune développeur en formation par le GRETA , toute notre formation fonctionnant sur Discord ,
  j'ai eu l'idée de créer un petit bot pour nous aider quotidiennement dans ce " doux " 😝 apprentissage 
  qui est le developpement web 💻 / web mobile 📱 .
  
- ## Avec quoi a-t-il été créé ? 
+ ## Avec quoi a-t-il été créé ? 🛠️
  
  - De l'amour 
  - De la motivation 
@@ -44,21 +44,24 @@
    - !command => Demander les commandes de Rick
    - !html => Donnes une astuces HTML 
    - !css => Donne une astuce CSS 
-   - !hey => Dire bonjour a Rick 
+   - !hey => Dire bonjour a Rick 👋
    - !presentation => Demande a Rick de ce présenter
    - !schwifty => Pour les connaiseurs 
    - !morty => La famille !
    - !newsT => News techno
    - !newsF => News Fun 
-   - !pickle => Le meilleur !
+   - !pickle => Le meilleur ! 🥒
       
       
  ## Le petit mot de la fin 
  ⚠️ Tu **dois** t'inscrire sur Discord Developpeur pour récuperer ta
-     **clé API** et remplacer la valeur dans server.js
+     **clé API** et remplacer la valeur dans **main.js**
      
-   RickTheBot est un projet open-source , tu peut t'amuser comme tu veux , ajouter des commandes , le faire evoluer , **ABSOLUMENT TOUT**.
-   N'hésite pas a faire un petit retour si le bot a été utile pour toi !
+   RickTheBot est un projet open-source , tu peut t'amuser comme tu veux ,
+   ajouter des commandes , le faire evoluer , **ABSOLUMENT TOUT**.
+   
+   N'hésite pas a faire un petit retour si le bot a été utile pour
+   toi où si tu as rajouté des fonctionnalités interessante ! 
  
   
 
