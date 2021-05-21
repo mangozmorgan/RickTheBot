@@ -35,7 +35,7 @@
        
  ## Comment ça marche ? 
  
-   ( Toutes les commandes commençeront par " ! " pour éviter que Rick intervienne 
+   ###( Toutes les commandes commençeront par " ! " pour éviter que Rick intervienne 
    dans vos conversation ) 
    
    Pour faire simple voici les commandes de base :   
