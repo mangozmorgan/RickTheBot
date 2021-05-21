@@ -34,11 +34,23 @@
    - Des news récentes concerant les dernières technos et le web en général
        
  ## Comment ça marche ? 
+ 
+   ( Toutes les commandes commençeront par " ! " pour éviter que Rick intervienne 
+   dans vos conversation ) 
    
    Pour faire simple voici les commandes de base :
-      -
-      -
-      -
+      - !start => Activer Rick dans le salon Discord
+      - !command => Demander les commandes de Rick
+      - !html => Donnes une astuces HTML 
+      - !css => Donne une astuce CSS 
+      - !hey => Dire bonjour a Rick 
+      - !presentation => Demande a Rick de ce présenter
+      - !schwifty => Pour les connaiseurs 
+      - !morty => La famille !
+      - !newsT => News techno
+      - !newsF => News Fun 
+      - !pickle => Le meilleur !
+      
       
  ## Le petit mot de la fin      
 
