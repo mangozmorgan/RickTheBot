@@ -31,7 +31,7 @@
     
    - Des infos CSS / JAVASCRIPT / HTML
    - Des "meme" en rapport avec le monde du Dev
-   - Des news récentes concerant les dernières technos et le web en général
+   - Des news récentes concernant les dernières technos et le web en général
        
  ## Comment ça marche ? ⚙️
  
