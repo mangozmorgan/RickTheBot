@@ -31,7 +31,7 @@
     
    - Des infos CSS / JAVASCRIPT / HTML
    - Des "meme" en rapport avec le monde du Dev
-   - Des news récentes concernant les dernières technos et le web en général
+   - Des news récentes concerant les dernières technos et le web en général
        
  ## Comment ça marche ? ⚙️
  
@@ -56,7 +56,7 @@
  ## Le petit mot de la fin 🔚
  
  ⚠️ Tu **dois** t'inscrire sur Discord Developpeur pour récuperer ta
-     **clé API** et remplacer la valeur dans **main.js** client.login("TaClé")
+     **clé API** et remplacer la valeur dans **main.js**
      
  📂 RickTheBot est un projet open-source , tu peut t'amuser comme tu veux ,
    ajouter des commandes , le faire evoluer , **ABSOLUMENT TOUT**.
