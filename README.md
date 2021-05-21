@@ -38,7 +38,7 @@
   ( Toutes les commandes commençeront par " ! " pour éviter que Rick intervienne 
    dans vos conversation ) 
    
-  ### Pour faire simple voici les commandes de base :   
+  #### Pour faire simple voici les commandes de base :   
    
    - !start => Activer Rick dans le salon Discord
    - !command => Demander les commandes de Rick
@@ -54,6 +54,6 @@
       
       
  ## Le petit mot de la fin 
- - Salut toi 
+  
 
 
