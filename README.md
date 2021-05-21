@@ -56,7 +56,7 @@
  ## Le petit mot de la fin 🔚
  
  ⚠️ Tu **dois** t'inscrire sur Discord Developpeur pour récuperer ta
-     **clé API** et remplacer la valeur dans **main.js**
+     **clé API** et remplacer la valeur dans **main.js** , client.login("TaCléAPI")
      
  📂 RickTheBot est un projet open-source , tu peut t'amuser comme tu veux ,
    ajouter des commandes , le faire evoluer , **ABSOLUMENT TOUT**.
