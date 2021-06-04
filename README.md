@@ -30,6 +30,7 @@
    Tu va pourvoir lui demander toi même :
     
    - Des infos CSS / JAVASCRIPT / HTML 💡
+   - Faire des sondages !
    - Des "meme" en rapport avec le monde du Dev
    - Des news récentes concerant les dernières technos et le web en général
        
