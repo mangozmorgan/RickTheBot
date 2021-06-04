@@ -52,6 +52,7 @@
    - !newsT => News techno
    - !newsF => News Fun 
    - !pickle => Le meilleur ! 🥒
+   - !sondage "ta question ?" ||oui||non
       
       
  ## Le petit mot de la fin 🔚
