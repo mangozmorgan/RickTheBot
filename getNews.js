@@ -2,6 +2,7 @@ const axios = require('axios')
 const cheerio = require('cheerio')
 const { cssNews } = require('./array')
 
+// import fetch from 'node-fetch';
 
 
 
@@ -358,11 +359,11 @@ let updateNews = () => {
 
 
 
-getCssNews()
-getTechnoNews()
-getFunNews()
-updateNews()
-JSNEWS()
+// getCssNews()
+// getTechnoNews()
+// getFunNews()
+// updateNews()
+// JSNEWS()
 
 
 

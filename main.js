@@ -5,6 +5,16 @@ const cheerio = require("cheerio");
 let fs = require("fs");
 require("dotenv").config();
 
+async function askGPTAPI (question) {
+
+  console.log(question)
+  // fetch('https://example.com/api/data')
+  //     .then(response => response.json())
+  //     .then(data => console.log(data))
+  //     .catch(error => console.error(error));
+
+}
+
 let random = (array) => {
   let random = array[Math.floor(Math.random() * array.length)];
   return random;
@@ -36,31 +46,23 @@ client.on("message", function (message, clientObject) {
   //SAUVEGARDE DU NOMBRE DE COMMANDE UTILISEE //
 
   setTimeout(() => {
-    let statsUser = () => {
-      let data =
-        "Commande !css : " +
-        cssGetArray.length +
-        "\n" +
-        "Commande !newsF : " +
-        newsTArray.length +
-        "\n" +
-        "Commande !newsF : " +
-        newsFArray.length +
-        "\n" +
-        "Commande !morty : " +
-        mortyArray.length +
-        "\n" +
-        "Commande !danse : " +
-        danseArray.length +
-        "\n" +
-        "Commande 'Feeling' : " +
-        feelingGoodArray.length;
+    const statsUser = () => {
+      const data =
+          "Commande !css : " + cssGetArray.length + "\n" +
+          "Commande !newsF : " + newsTArray.length + "\n" +
+          "Commande !newsF : " + newsFArray.length + "\n" +
+          "Commande !morty : " + mortyArray.length + "\n" +
+          "Commande !danse : " + danseArray.length + "\n" +
+          "Commande 'Feeling' : " + feelingGoodArray.length;
       fs.writeFile("data.txt", data, (err) => {
-        console.log("err : " + err);
+        if (err) {
+          console.log("err : " + err);
+        }
       });
     };
     statsUser();
   }, 1200000);
+
 
   //FIN//
 
@@ -96,7 +98,7 @@ client.on("message", function (message, clientObject) {
     );
   } else if (generalArray.howU.includes(message.content)) {
     feelingGoodArray.push(message.author.username);
-    var rand = random(generalArray.answer2);
+    let rand = random(generalArray.answer2);
     let rand2 = random(generalArray.emojiFeeling);
     message.react(rand2);
     message.reply(rand);
@@ -139,12 +141,21 @@ client.on("message", function (message, clientObject) {
     message.react("🥳");
     danseArray.push(message.author.username);
     message.reply("Yeaaaaah Baby !!! :love_you_gesture: :love_you_gesture: ");
-    var rand = random(generalArray.answerDance);
+    let rand = random(generalArray.answerDance);
     message.reply(rand);
+  }
+  else if (message.content.includes("rickGPT||") ) {
+    message.react("🤖");
+    message.reply("La fonctionnalité est en cour de développement !!! :love_you_gesture: :love_you_gesture: ");
+
+    let userQuestion = message.content.split('||')
+
+    let response =  askGPTAPI(userQuestion[1]);
+
   } else if (message.content == "!newsT") {
     message.react("📰");
     newsTArray.push(message.author.username);
-    var rand = random(generalArray.answer3);
+    let rand = random(generalArray.answer3);
     message.reply(rand);
     message.author.send("Alors pour les nouvelles Techno de la journée : ");
 
@@ -475,4 +486,4 @@ client.on("message", function (message, clientObject) {
   }
 });
 
-client.login("");
+client.login("ODIzNjE4NDkxNzk3NDcxMjgy.GfAk03.YF4Fly6DqUCPCJB8Ug7CVDarSyn_5C2stwPn8Y");
